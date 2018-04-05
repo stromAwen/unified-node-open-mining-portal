@@ -15,9 +15,9 @@
 	"multipool",
 	"multicoin"
     ],
-    "homepage": "https://github.com/UNOMP/unified-node-open-mining-portal",
+    "homepage": "https://github.com/stormAwen/unified-node-open-mining-portal",
     "bugs": {
-        "url": "https://github.com/UNOMP/unified-node-open-mining-portal/issues"
+        "url": "https://github.com/stormAwen/unified-node-open-mining-portal/issues"
     },
     "license": "GPL-2.0",
     "contributors": [
@@ -36,7 +36,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/UNOMP/unified-node-open-mining-portal.git"
+        "url": "https://github.com/stormAwen/unified-node-open-mining-portal.git"
     },
     "dependencies": {
         "merged-pooler": "git://github.com/stormAwen/node-merged-pool",
