@@ -10,11 +10,11 @@
     },
 
     "defaultPoolConfigs": {
-        "blockRefreshInterval": 1000,
+        "blockRefreshInterval": 50,
         "jobRebroadcastTimeout": 55,
         "connectionTimeout": 600,
         "emitInvalidBlockHashes": false,
-        "validateWorkerUsername": true,
+        "validateWorkerUsername": false,
         "tcpProxyProtocol": false,
         "banning": {
             "enabled": true,
@@ -33,9 +33,9 @@
 
     "website": {
         "enabled": true,
-        "host": "0.0.0.0",
+        "host": "127.0.0.1",
         "siteTitle": "UNOMP Beta",
-        "port": 80,
+        "port": 8081,
         "stratumHost": "pool.unomp.org",
         "stats": {
             "updateInterval": 60,
